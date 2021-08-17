@@ -1,0 +1,14 @@
+{
+	"timers": {
+    	"left": {
+    		"limit": 360,
+			"now": 100,
+    		"timestamp": 0
+		},
+		"ago": {
+    		"limit": 360,
+			"now": 400,
+    		"timestamp": 0
+		}
+	}
+}
